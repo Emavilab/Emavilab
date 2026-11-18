@@ -65,9 +65,9 @@ Aquí encontrarás proyectos académicos y personales enfocados en el desarrollo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Emavilab&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emavilab&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" />
 
 </div>
 
